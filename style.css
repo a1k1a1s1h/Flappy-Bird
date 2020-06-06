@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Teko&display=swap');
+
+
+
+canvas{
+    border: 1px solid #000;
+    margin: 0 auto;
+    display: block;
+}
